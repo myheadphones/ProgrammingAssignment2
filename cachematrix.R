@@ -1,3 +1,5 @@
+## Reviewed and updated in March 2015
+##
 ## Using the following two functions will cache the inverse of a matrix.
 ## Sample output for how it works:
 ##>    amatrix = makeCacheMatrix(matrix(c(1,2,3,4), nrow=2, ncol=2))
